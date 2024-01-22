@@ -5,4 +5,4 @@ project(
   VERSION 0.1
   LANGUAGES CXX)
 
-add_executable(hello-git hello-git.cpp)
+add_executable(test-git test-git.cpp)
